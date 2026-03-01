@@ -1,0 +1,19 @@
+/* Basic stylesheet for index.html */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 1em;
+}
+
+p:first-of-type {
+    font-weight: bold;
+}
